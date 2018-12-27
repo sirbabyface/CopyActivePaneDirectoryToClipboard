@@ -1,0 +1,3 @@
+[
+	{ "keys": ["Alt+G"], "command": "copy_active_pane_path_to_clipboard" }
+]
